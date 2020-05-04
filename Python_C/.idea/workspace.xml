@@ -162,7 +162,8 @@
       <workItem from="1585745529363" duration="6153000" />
       <workItem from="1585853531248" duration="2438000" />
       <workItem from="1585920862360" duration="750000" />
-      <workItem from="1586331634603" duration="3957000" />
+      <workItem from="1586331634603" duration="4648000" />
+      <workItem from="1586876065424" duration="1169000" />
     </task>
     <servers />
   </component>
@@ -186,10 +187,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586337309180" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586331834870">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586876116456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586331834870" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586876116456" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_C$DZ3_Var5.coverage" NAME="DZ3_Var5 Coverage Results" MODIFIED="1585748885521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
